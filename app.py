@@ -19,7 +19,7 @@ from telegram.ext import (
 # ══════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════
-BOT_TOKEN    = "8635653347:AAHfdoO9MvdvR_O0D216WFHAS3DLFm5Cr3g"
+BOT_TOKEN    = "8635653347:AAGhcVTbw5QoXGi0My35g7pQsowrzYr8Tl0"
 OWNER_ID     = 8321630022
 BOT_NAME     = "⚡ ZenoHost"
 SERVER_NAME  = "🌐 Zeno Cloud"
